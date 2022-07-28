@@ -1,2 +1,2 @@
 # git diff function
- C# Code to analyze difference between two files, used for university work
+ Basic C# Code to analyze difference between two files, used for university work.
